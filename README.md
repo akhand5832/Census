@@ -1,2 +1,1 @@
-"# Census" 
-"# cencus" 
+This project aimed to gain valuable insights into the various demographic, social, and economic aspects of India using data from the Indian Census. By leveraging SQL as the primary tool for data analysis, I was able to clean and preprocess the data, and then apply advanced SQL queries to uncover meaningful trends and patterns. My findings revealed key indicators such as population growth, household size, education levels, and employment trends. These insights have the potential to inform and support decision-making in various industries and fields, such as urban planning, education, and public policy. The project also showcased my skills in data analysis, SQL programming, and problem-solving.
